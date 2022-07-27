@@ -1,0 +1,22 @@
+{
+    "name": "Aplicacion de evaluacion de comida",
+    "short_name": "Aplicacion de evaluacion de comida",
+    "start_url": ".",
+    "background_color": "#ffffff",
+    "theme_color": "#EFEFEF",
+    "display": "fullscreen-sticky",
+    "icons": [
+        {
+            "src": "images/iandroid-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+
+        {
+            "src": "images/iandroid-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+    
+}
