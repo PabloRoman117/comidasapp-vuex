@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkformularios"]=self["webpackChunkformularios"]||[]).push([[443],{7381:function(n,r,u){u.r(r),u.d(r,{default:function(){return l}});var a=u(3396);const s={class:"about"},t=(0,a._)("h1",null,"This is an about page",-1),e=[t];function o(n,r){return(0,a.wg)(),(0,a.iD)("div",s,e)}var i=u(89);const c={},f=(0,i.Z)(c,[["render",o]]);var l=f}}]);
+//# sourceMappingURL=about.b14fe7d9.js.map
