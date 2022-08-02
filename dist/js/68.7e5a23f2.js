@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkformularios"]=self["webpackChunkformularios"]||[]).push([[68],{1068:function(r,a,n){n.r(a),n.d(a,{default:function(){return f}});var t=n(3396);const s={class:"navbar navbar-dark bg-dark p-3"},e=(0,t._)("h5",{class:"text-center"},"App",-1);function u(r,a,n,u,c,o){const l=(0,t.up)("router-link");return(0,t.wg)(),(0,t.iD)("div",s,[(0,t.Wm)(l,{to:"/",class:"navbar-brand"},{default:(0,t.w5)((()=>[e])),_:1})])}var c={},o=n(89);const l=(0,o.Z)(c,[["render",u]]);var f=l}}]);
-//# sourceMappingURL=68.7e5a23f2.js.map
