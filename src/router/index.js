@@ -7,22 +7,18 @@ const routes = [
     name: 'home',
     component: HomeView
   },
-  {
-    path: '/about',
-    name: 'about',
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
-  },
+
   {
     path: '/datos',
     name: 'datos',
-    component: () => import(/*webpackChunkName: "datos */ '../components/ListaTareas.vue')
+    component: () => import('../components/ListaTareas.vue')
 
   },
 
   {
     path: '/resultado',
     name: 'resultado',
-    component: () => import(/*webpackChunkName: "resultado */ '../views/Results.vue')
+    component: () => import( '../views/Results.vue')
 
   },
 
