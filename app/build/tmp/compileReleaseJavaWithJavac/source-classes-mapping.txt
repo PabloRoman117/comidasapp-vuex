@@ -1,0 +1,8 @@
+app/netlify/comidasapp_prc/twa/LauncherActivity.java
+ app.netlify.comidasapp_prc.twa.LauncherActivity
+app/netlify/comidasapp_prc/twa/BuildConfig.java
+ app.netlify.comidasapp_prc.twa.BuildConfig
+app/netlify/comidasapp_prc/twa/Application.java
+ app.netlify.comidasapp_prc.twa.Application
+app/netlify/comidasapp_prc/twa/DelegationService.java
+ app.netlify.comidasapp_prc.twa.DelegationService
