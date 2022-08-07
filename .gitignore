@@ -1,6 +1,9 @@
 .DS_Store
 node_modules
+<<<<<<< HEAD
 .theia
+=======
+>>>>>>> a0e0df4bdb4a8cecb15da526ba6c8fb7d46cd5e2
 
 
 
