@@ -38,7 +38,6 @@ androidx.annotation.IntRange
 androidx.browser.customtabs.CustomTabColorSchemeParams$Builder:
     public androidx.browser.customtabs.CustomTabColorSchemeParams$Builder setSecondaryToolbarColor(int)
 androidx.browser.customtabs.CustomTabsSessionToken
-androidx.concurrent.futures.CallbackToFutureAdapter$Completer
 androidx.collection.SimpleArrayMap:
     public void <init>(int)
     public void <init>(androidx.collection.SimpleArrayMap)
@@ -48,6 +47,7 @@ androidx.collection.SimpleArrayMap:
     private static final boolean CONCURRENT_MODIFICATION_EXCEPTIONS
     private static final int BASE_SIZE
     private static final int CACHE_SIZE
+androidx.concurrent.futures.CallbackToFutureAdapter$Completer
 androidx.core.graphics.TypefaceCompat
 androidx.lifecycle.Lifecycle$Event
 androidx.browser.customtabs.CustomTabsServiceConnection:
@@ -99,8 +99,8 @@ androidx.annotation.WorkerThread
 androidx.core.graphics.TypefaceCompatBaseImpl$2
 androidx.core.view.accessibility.AccessibilityManagerCompat
 androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImplJellybeanMr2
-androidx.core.content.PermissionChecker
 androidx.browser.customtabs.CustomTabsSession$MockSession
+androidx.core.content.PermissionChecker
 com.google.androidbrowserhelper.R$attr
 android.support.customtabs.trusted.ITrustedWebActivityCallback$Stub:
     public void <init>()
@@ -133,11 +133,11 @@ androidx.core.view.accessibility.AccessibilityViewCommand$MoveWindowArguments
 androidx.core.app.ActivityCompat$SharedElementCallback21Impl
 androidx.concurrent.futures.AbstractResolvableFuture$Listener
 androidx.lifecycle.Lifecycle
-androidx.core.app.JobIntentService$JobServiceEngineImpl$WrapperWorkItem
 android.support.customtabs.trusted.ITrustedWebActivityCallback$Stub$Proxy:
     public java.lang.String getInterfaceDescriptor()
     public void onExtraCallback(java.lang.String,android.os.Bundle)
     public static android.support.customtabs.trusted.ITrustedWebActivityCallback sDefaultImpl
+androidx.core.app.JobIntentService$JobServiceEngineImpl$WrapperWorkItem
 androidx.core.view.ViewPropertyAnimatorCompat$ViewPropertyAnimatorListenerApi14
 androidx.core.app.NotificationCompatSideChannelService$NotificationSideChannelStub
 androidx.versionedparcelable.VersionedParcelParcel:
@@ -232,8 +232,8 @@ androidx.browser.trusted.TrustedWebActivityServiceConnection$CancelNotificationA
 androidx.core.view.inputmethod.InputConnectionCompat
 androidx.core.app.NotificationCompat$Style
 androidx.core.app.FrameMetricsAggregator$FrameMetricsApi24Impl$1
-androidx.core.content.pm.ShortcutInfoCompatSaver
 androidx.core.widget.NestedScrollView$AccessibilityDelegate
+androidx.core.content.pm.ShortcutInfoCompatSaver
 androidx.core.content.ContextCompat:
     protected void <init>()
     public static boolean startActivities(android.content.Context,android.content.Intent[])
@@ -624,8 +624,8 @@ androidx.annotation.HalfFloat
 androidx.core.view.ViewCompat$FocusRelativeDirection
 androidx.core.app.FrameMetricsAggregator
 androidx.core.graphics.PaintCompat
-androidx.core.view.ScaleGestureDetectorCompat
 androidx.core.view.ViewGroupCompat
+androidx.core.view.ScaleGestureDetectorCompat
 androidx.core.app.NotificationCompat$CarExtender
 androidx.browser.customtabs.CustomTabsService$FilePurpose
 androidx.lifecycle.GenericLifecycleObserver

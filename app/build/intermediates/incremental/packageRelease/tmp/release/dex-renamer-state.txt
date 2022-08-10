@@ -1,4 +1,4 @@
-#Thu Aug 04 23:05:05 EDT 2022
+#Tue Aug 09 22:27:31 EDT 2022
 base.0=/home/cabox/workspace/main/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
