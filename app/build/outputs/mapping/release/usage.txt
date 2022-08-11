@@ -38,7 +38,6 @@ androidx.annotation.IntRange
 androidx.browser.customtabs.CustomTabColorSchemeParams$Builder:
     public androidx.browser.customtabs.CustomTabColorSchemeParams$Builder setSecondaryToolbarColor(int)
 androidx.browser.customtabs.CustomTabsSessionToken
-androidx.concurrent.futures.CallbackToFutureAdapter$Completer
 androidx.collection.SimpleArrayMap:
     public void <init>(int)
     public void <init>(androidx.collection.SimpleArrayMap)
@@ -48,6 +47,7 @@ androidx.collection.SimpleArrayMap:
     private static final boolean CONCURRENT_MODIFICATION_EXCEPTIONS
     private static final int BASE_SIZE
     private static final int CACHE_SIZE
+androidx.concurrent.futures.CallbackToFutureAdapter$Completer
 androidx.core.graphics.TypefaceCompat
 androidx.lifecycle.Lifecycle$Event
 androidx.browser.customtabs.CustomTabsServiceConnection:
@@ -99,8 +99,8 @@ androidx.annotation.WorkerThread
 androidx.core.graphics.TypefaceCompatBaseImpl$2
 androidx.core.view.accessibility.AccessibilityManagerCompat
 androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImplJellybeanMr2
-androidx.browser.customtabs.CustomTabsSession$MockSession
 androidx.core.content.PermissionChecker
+androidx.browser.customtabs.CustomTabsSession$MockSession
 com.google.androidbrowserhelper.R$attr
 android.support.customtabs.trusted.ITrustedWebActivityCallback$Stub:
     public void <init>()
@@ -373,8 +373,8 @@ androidx.core.os.ParcelCompat
 androidx.core.view.ViewPropertyAnimatorUpdateListener
 androidx.annotation.Px
 androidx.interpolator.view.animation.LinearOutSlowInInterpolator
-androidx.lifecycle.ReportFragment
 androidx.core.R$id
+androidx.lifecycle.ReportFragment
 androidx.core.provider.FontsContractCompat$4$8
 androidx.browser.trusted.TrustedWebActivityDisplayMode:
     public static androidx.browser.trusted.TrustedWebActivityDisplayMode fromBundle(android.os.Bundle)
@@ -986,8 +986,8 @@ androidx.core.view.DragStartHelper$2
 android.support.v4.os.IResultReceiver$Stub
 androidx.arch.core.util.Function
 android.support.v4.app.INotificationSideChannel$Stub$Proxy
-androidx.core.view.ViewCompat$1
 androidx.core.provider.FontsContractCompat$5
+androidx.core.view.ViewCompat$1
 androidx.core.view.inputmethod.InputContentInfoCompat$InputContentInfoCompatImpl
 androidx.annotation.RequiresPermission$Write
 androidx.core.graphics.drawable.IconCompat:
@@ -1037,8 +1037,8 @@ androidx.core.view.accessibility.AccessibilityNodeProviderCompat
 androidx.annotation.AnimatorRes
 androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListenerWrapper
 androidx.versionedparcelable.ParcelField
-androidx.core.content.res.GradientColorInflaterCompat
 androidx.core.content.res.ColorStateListInflaterCompat
+androidx.core.content.res.GradientColorInflaterCompat
 com.google.androidbrowserhelper.trusted.TwaSharedPreferencesManager:
     private static final java.lang.String PREFS_NAME
     private static final java.lang.String KEY_PROVIDER_PACKAGE
@@ -1214,9 +1214,9 @@ androidx.browser.trusted.TrustedWebActivityDisplayMode$ImmersiveMode:
     public static final java.lang.String KEY_CUTOUT_MODE
 android.support.v4.os.IResultReceiver
 androidx.core.graphics.drawable.RoundedBitmapDrawable
-androidx.core.app.JobIntentService$JobWorkEnqueuer
-android.support.v4.os.ResultReceiver
 androidx.browser.trusted.FutureUtils
+android.support.v4.os.ResultReceiver
+androidx.core.app.JobIntentService$JobWorkEnqueuer
 com.google.androidbrowserhelper.trusted.ChromeLegacyUtils:
     private void <init>()
     private static final java.lang.String CHROME_LOCAL_BUILD_PACKAGE
@@ -1323,9 +1323,9 @@ com.google.androidbrowserhelper.R$xml
 androidx.core.os.LocaleListCompatWrapper
 androidx.browser.customtabs.CustomTabsService$1
 androidx.core.view.MotionEventCompat
-androidx.core.view.NestedScrollingChildHelper
 androidx.core.content.pm.ShortcutInfoCompat$Builder
 androidx.core.app.JobIntentService$CompatJobEngine
+androidx.core.view.NestedScrollingChildHelper
 androidx.lifecycle.GeneratedAdapter
 androidx.concurrent.futures.AbstractResolvableFuture$SafeAtomicHelper
 androidx.core.view.DragAndDropPermissionsCompat
@@ -1335,8 +1335,8 @@ androidx.core.os.MessageCompat
 androidx.browser.customtabs.PostMessageService$1
 androidx.core.widget.ListPopupWindowCompat
 app.netlify.comidasapp_prc.twa.R$bool
-androidx.core.provider.FontsContractCompat$4$5
 androidx.core.app.AlarmManagerCompat
+androidx.core.provider.FontsContractCompat$4$5
 androidx.core.graphics.drawable.WrappedDrawableApi14:
     public final android.graphics.drawable.Drawable getWrappedDrawable()
 androidx.core.content.ContextCompat$LegacyServiceMapHolder
