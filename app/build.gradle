@@ -23,9 +23,9 @@ plugins {
 def twaManifest = [
     applicationId: 'app.netlify.comidasapp_prc.twa',
     hostName: 'comidasapp-prc.netlify.app', // The domain being opened in the TWA.
-    launchUrl: 'https://comidasapp-prc.netlify.app', // The start path for the TWA. Must be relative to the domain.
-    name: 'formularios', // The application name.
-    launcherName: 'formularios', // The name shown on the Android Launcher.
+    launchUrl: 'comidasapp-prc.netlify.app', // The start path for the TWA. Must be relative to the domain.
+    name: 'app-comidas', // The application name.
+    launcherName: 'app-comidas', // The name shown on the Android Launcher.
     themeColor: '#4DBA87', // The color used for the status bar.
     navigationColor: '#000000', // The color used for the navigation bar.
     navigationColorDark: '#000000', // The color used for the dark navbar.

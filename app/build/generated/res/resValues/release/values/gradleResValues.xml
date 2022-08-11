@@ -4,7 +4,7 @@
     <!-- Automatically generated file. DO NOT MODIFY -->
 
     <!-- Value from default config. -->
-    <string name="appName" translatable="false">formularios</string>
+    <string name="appName" translatable="false">app-comidas</string>
     <!-- Value from default config. -->
     <color name="backgroundColor">#000000</color>
     <!-- Value from default config. -->
@@ -22,9 +22,9 @@
     <!-- Value from default config. -->
     <string name="hostName" translatable="false">comidasapp-prc.netlify.app</string>
     <!-- Value from default config. -->
-    <string name="launchUrl" translatable="false">https://comidasapp-prc.netlify.apphttps://comidasapp-prc.netlify.app</string>
+    <string name="launchUrl" translatable="false">https://comidasapp-prc.netlify.appcomidasapp-prc.netlify.app</string>
     <!-- Value from default config. -->
-    <string name="launcherName" translatable="false">formularios</string>
+    <string name="launcherName" translatable="false">app-comidas</string>
     <!-- Value from default config. -->
     <color name="navigationColor">#000000</color>
     <!-- Value from default config. -->
